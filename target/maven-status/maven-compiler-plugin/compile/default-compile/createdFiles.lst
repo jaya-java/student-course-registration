@@ -1,0 +1,5 @@
+com/student/model/Student.class
+com/student/dao/StudentDao.class
+com/student/model/Student_.class
+com/student/model/Course.class
+com/student/model/Course_.class
